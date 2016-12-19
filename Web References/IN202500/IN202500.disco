@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://ec2-54-209-21-238.compute-1.amazonaws.com/Soap/IN202500.asmx?wsdl" docRef="http://ec2-54-209-21-238.compute-1.amazonaws.com/Soap/IN202500.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://ec2-54-209-21-238.compute-1.amazonaws.com/Soap/IN202500.asmx" xmlns:q1="http://www.acumatica.com/generic/" binding="q1:ScreenSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://ec2-54-209-21-238.compute-1.amazonaws.com/Soap/IN202500.asmx" xmlns:q2="http://www.acumatica.com/generic/" binding="q2:ScreenSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
